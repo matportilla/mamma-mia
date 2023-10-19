@@ -1,0 +1,30 @@
+.card {
+    margin: 25px;
+}
+
+.d-flex {
+    justify-content: space-around;
+}
+
+h5 {
+    text-align: left;
+}
+
+h3 {
+    text-align: center;
+    padding-bottom: 8px;
+}
+
+ul {
+    text-align: left;
+    padding-left: 5px;
+    list-style: none;
+}
+
+.zoom {
+    transition: transform .2s;
+}
+
+.zoom:hover {
+    transform: scale(1.1);
+}

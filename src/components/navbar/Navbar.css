@@ -1,0 +1,26 @@
+.style {
+    background-color: #2596be;
+    position:fixed; 
+    top: 0; 
+    width: 100%; 
+    z-index: 100; 
+}
+
+.headText {
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.headText:hover {
+    color: black;
+}
+
+/* .navbar {
+    padding: 20px;
+} */
+
+.Container {
+    justify-content: center;
+}

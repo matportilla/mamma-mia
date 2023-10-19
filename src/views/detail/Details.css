@@ -1,0 +1,42 @@
+.contenedor-details {
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.detailCard {
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.pizzaBody {
+    margin: 1rem;
+}
+
+ul {
+    text-align: left;
+    padding-left: 5px;
+    list-style: none;
+}
+
+.description {
+    display: flex;
+    flex-direction: row;
+    text-align: justify;
+    padding-left: 5px;
+}
+
+
+.precio-details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.precio-details h3 {
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 12px;
+}

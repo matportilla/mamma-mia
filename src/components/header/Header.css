@@ -1,0 +1,14 @@
+.banner {
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("/ingredientes-pizza.jpg");
+    background-size: cover;
+    background-position: end;
+    background-repeat: no-repeat;
+}

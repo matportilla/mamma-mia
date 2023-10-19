@@ -1,0 +1,12 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+}
+
+.bg-main {
+  background-color: white;
+}

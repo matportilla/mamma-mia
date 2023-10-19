@@ -1,0 +1,68 @@
+.lista-precio {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 75%;
+}
+
+img.img-cart {
+  max-height: 4rem;
+  max-width: 6rem;
+  border-radius: 3px;
+}
+
+.botones {
+  display: flex;
+  align-items: center;
+}
+
+.info-pedido {
+  margin: 12px 100px 0 20px;
+  font-size: 20px;
+  display: flex;
+}
+
+.info-precio {
+  margin: 12px 100px 0 20px;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+
+}
+
+.info-subtotal {
+  margin: 12px 100px 0 20px;
+  font-size: 20px;
+  color: green;
+
+}
+
+.contador {
+  font-weight: bold;
+  margin: 10px;
+}
+
+.contenedor {
+  padding-top: 60px;
+}
+
+.contenedor h3 {
+  font-weight: bold;
+  font-weight: 600;
+  margin-top: 40px;
+  text-align: left;
+  margin-left: 150px;
+}
+
+.contenedor-seleccion {
+  font-weight: bold;
+  display: flex;
+  flex-direction: wrap;
+  margin: 20px 0 0 150px;
+}
+
+.contenedor-total {
+  font-size: 30px;
+  margin: 30px 0 0 150px;
+  text-align: left;
+  font-weight: bold;
+}
